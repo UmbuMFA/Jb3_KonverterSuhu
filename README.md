@@ -1,16 +1,6 @@
-# tugas_jb2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tampilan Utama
+![WhatsApp Image 2021-02-26 at 13 04 00 (1)](https://user-images.githubusercontent.com/64760735/109262681-8a5e4b00-7834-11eb-8e71-9712ba9a5052.jpeg)
+# Convert OC
+![WhatsApp Image 2021-02-26 at 13 04 00](https://user-images.githubusercontent.com/64760735/109262653-7f0b1f80-7834-11eb-9bc4-d40ea4779681.jpeg)
+# Convert 10OC
+![WhatsApp Image 2021-02-26 at 13 04 00 (2)](https://user-images.githubusercontent.com/64760735/109262687-8e8a6880-7834-11eb-9003-883eda39b281.jpeg)
